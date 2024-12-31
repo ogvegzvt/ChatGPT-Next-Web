@@ -1,44 +1,77 @@
 <div align="center">
-<img src="./docs/images/icon.svg" alt="icon"/>
 
-<h1 align="center">ChatGPT Next Web</h1>
+<a href='https://nextchat.dev/chat'>
+  <img src="https://github.com/user-attachments/assets/287c510f-f508-478e-ade3-54d30453dc18" width="1000" alt="icon"/>
+</a>
+
+
+<h1 align="center">NextChat (ChatGPT Next Web)</h1>
 
 English / [简体中文](./README_CN.md)
 
-One-Click to get well-designed cross-platform ChatGPT web UI.
+One-Click to get a well-designed cross-platform ChatGPT web UI, with Claude, GPT4 & Gemini Pro support.
 
-一键免费部署你的跨平台私人 ChatGPT 应用。
+一键免费部署你的跨平台私人 ChatGPT 应用, 支持 Claude, GPT4 & Gemini Pro 模型。
 
+[![Saas][Saas-image]][saas-url]
 [![Web][Web-image]][web-url]
 [![Windows][Windows-image]][download-url]
 [![MacOS][MacOS-image]][download-url]
 [![Linux][Linux-image]][download-url]
 
-[Web App](https://chatgpt.nextweb.fun/) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Twitter](https://twitter.com/mortiest_ricky) / [Buy Me a Coffee](https://www.buymeacoffee.com/yidadaa)
+[NextChatAI](https://nextchat.dev/chat?utm_source=readme) / [Web App Demo](https://app.nextchat.dev) / [Desktop App](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [Discord](https://discord.gg/YCkeafCafC) / [Enterprise Edition](#enterprise-edition) / [Twitter](https://twitter.com/NextChatDev)
 
-[网页版](https://chatgpt.nextweb.fun/) / [客户端](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues) / [QQ 群](https://github.com/Yidadaa/ChatGPT-Next-Web/discussions/1724) / [打赏开发者](https://user-images.githubusercontent.com/16968934/227772541-5bcd52d8-61b7-488c-a203-0330d8006e2b.jpg)
+[NextChatAI](https://nextchat.dev/chat) / [自部署网页版](https://app.nextchat.dev) / [客户端](https://github.com/Yidadaa/ChatGPT-Next-Web/releases) / [企业版](#%E4%BC%81%E4%B8%9A%E7%89%88) / [反馈](https://github.com/Yidadaa/ChatGPT-Next-Web/issues)
 
-[web-url]: https://chatgpt.nextweb.fun
+[saas-url]: https://nextchat.dev/chat?utm_source=readme
+[saas-image]: https://img.shields.io/badge/NextChat-Saas-green?logo=microsoftedge
+[web-url]: https://app.nextchat.dev/
 [download-url]: https://github.com/Yidadaa/ChatGPT-Next-Web/releases
 [Web-image]: https://img.shields.io/badge/Web-PWA-orange?logo=microsoftedge
 [Windows-image]: https://img.shields.io/badge/-Windows-blue?logo=windows
 [MacOS-image]: https://img.shields.io/badge/-MacOS-black?logo=apple
 [Linux-image]: https://img.shields.io/badge/-Linux-333?logo=ubuntu
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)
+[<img src="https://vercel.com/button" alt="Deploy on Vercel" height="30">](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FChatGPTNextWeb%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=nextchat&repository-name=NextChat) [<img src="https://zeabur.com/button.svg" alt="Deploy on Zeabur" height="30">](https://zeabur.com/templates/ZBUEFA)  [<img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod" height="30">](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web) [<img src="https://img.shields.io/badge/BT_Deploy-Install-20a53a" alt="BT Deply Install" height="30">](https://www.bt.cn/new/download.html)
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
-
-![cover](./docs/images/cover.png)
+[<img src="https://github.com/user-attachments/assets/903482d4-3e87-4134-9af1-f2588fa90659" height="60" width="288" >](https://monica.im/?utm=nxcrp)
 
 </div>
+
+## Enterprise Edition
+
+Meeting Your Company's Privatization and Customization Deployment Requirements:
+- **Brand Customization**: Tailored VI/UI to seamlessly align with your corporate brand image.
+- **Resource Integration**: Unified configuration and management of dozens of AI resources by company administrators, ready for use by team members.
+- **Permission Control**: Clearly defined member permissions, resource permissions, and knowledge base permissions, all controlled via a corporate-grade Admin Panel.
+- **Knowledge Integration**: Combining your internal knowledge base with AI capabilities, making it more relevant to your company's specific business needs compared to general AI.
+- **Security Auditing**: Automatically intercept sensitive inquiries and trace all historical conversation records, ensuring AI adherence to corporate information security standards.
+- **Private Deployment**: Enterprise-level private deployment supporting various mainstream private cloud solutions, ensuring data security and privacy protection.
+- **Continuous Updates**: Ongoing updates and upgrades in cutting-edge capabilities like multimodal AI, ensuring consistent innovation and advancement.
+
+For enterprise inquiries, please contact: **business@nextchat.dev**
+
+## 企业版
+
+满足企业用户私有化部署和个性化定制需求：
+- **品牌定制**：企业量身定制 VI/UI，与企业品牌形象无缝契合
+- **资源集成**：由企业管理人员统一配置和管理数十种 AI 资源，团队成员开箱即用
+- **权限管理**：成员权限、资源权限、知识库权限层级分明，企业级 Admin Panel 统一控制
+- **知识接入**：企业内部知识库与 AI 能力相结合，比通用 AI 更贴近企业自身业务需求
+- **安全审计**：自动拦截敏感提问，支持追溯全部历史对话记录，让 AI 也能遵循企业信息安全规范
+- **私有部署**：企业级私有部署，支持各类主流私有云部署，确保数据安全和隐私保护
+- **持续更新**：提供多模态、智能体等前沿能力持续更新升级服务，常用常新、持续先进
+
+企业版咨询: **business@nextchat.dev**
+
+<img width="300" src="https://github.com/user-attachments/assets/3d4305ac-6e95-489e-884b-51d51db5f692">
 
 ## Features
 
 - **Deploy for free with one-click** on Vercel in under 1 minute
 - Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
-- Fully compatible with self-deployed llms, recommended for use with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) or [LocalAI](https://github.com/go-skynet/LocalAI)
-- Privacy first, all data stored locally in the browser
+- Fully compatible with self-deployed LLMs, recommended for use with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) or [LocalAI](https://github.com/go-skynet/LocalAI)
+- Privacy first, all data is stored locally in the browser
 - Markdown support: LaTex, mermaid, code highlight, etc.
 - Responsive design, dark mode and PWA
 - Fast first screen loading speed (~100kb), support streaming response
@@ -46,6 +79,12 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 - Awesome prompts powered by [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) and [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 - Automatically compresses chat history to support long conversations while also saving your tokens
 - I18n: English, 简体中文, 繁体中文, 日本語, Français, Español, Italiano, Türkçe, Deutsch, Tiếng Việt, Русский, Čeština, 한국어, Indonesia
+
+<div align="center">
+   
+![主界面](./docs/images/cover.png)
+
+</div>
 
 ## Roadmap
 
@@ -55,14 +94,22 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 - [x] Share as image, share to ShareGPT [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
 - [x] Desktop App with tauri
 - [x] Self-host Model: Fully compatible with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner), as well as server deployment of [LocalAI](https://github.com/go-skynet/LocalAI): llama/gpt4all/rwkv/vicuna/koala/gpt4all-j/cerebras/falcon/dolly etc.
-- [ ] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+- [x] Artifacts: Easily preview, copy and share generated content/webpages through a separate window [#5092](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/pull/5092)
+- [x] Plugins: support network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165) [#5353](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5353)
+  - [x] network search, calculator, any other apis etc. [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165) [#5353](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5353)
+- [x] Supports Realtime Chat [#5672](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5672)
+- [ ] local knowledge base
 
 ## What's New
-
-- 🚀 v2.0 is released, now you can create prompt templates, turn your ideas into reality! Read this: [ChatGPT Prompt Engineering Tips: Zero, One and Few Shot Prompting](https://www.allabtai.com/prompt-engineering-tips-zero-one-and-few-shot-prompting/).
-- 🚀 v2.7 let's share conversations as image, or share to ShareGPT!
-- 🚀 v2.8 now we have a client that runs across all platforms!
+- 🚀 v2.15.8 Now supports Realtime Chat [#5672](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5672)
+- 🚀 v2.15.4 The Application supports using Tauri fetch LLM API, MORE SECURITY! [#5379](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5379)
+- 🚀 v2.15.0 Now supports Plugins! Read this: [NextChat-Awesome-Plugins](https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins)
+- 🚀 v2.14.0 Now supports  Artifacts & SD 
+- 🚀 v2.10.1 support Google Gemini Pro model.
 - 🚀 v2.9.11 you can use azure endpoint now.
+- 🚀 v2.8 now we have a client that runs across all platforms!
+- 🚀 v2.7 let's share conversations as image, or share to ShareGPT!
+- 🚀 v2.0 is released, now you can create prompt templates, turn your ideas into reality! Read this: [ChatGPT Prompt Engineering Tips: Zero, One and Few Shot Prompting](https://www.allabtai.com/prompt-engineering-tips-zero-one-and-few-shot-prompting/).
 
 ## 主要功能
 
@@ -86,15 +133,23 @@ One-Click to get well-designed cross-platform ChatGPT web UI.
 - [x] 分享为图片，分享到 ShareGPT 链接 [#1741](https://github.com/Yidadaa/ChatGPT-Next-Web/pull/1741)
 - [x] 使用 tauri 打包桌面应用
 - [x] 支持自部署的大语言模型：开箱即用 [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) ，服务端部署 [LocalAI 项目](https://github.com/go-skynet/LocalAI) llama / gpt4all / rwkv / vicuna / koala / gpt4all-j / cerebras / falcon / dolly 等等，或者使用 [api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)
-- [ ] 插件机制，支持联网搜索、计算器、调用其他平台 api [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165)
+- [x] Artifacts: 通过独立窗口，轻松预览、复制和分享生成的内容/可交互网页 [#5092](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/pull/5092)
+- [x] 插件机制，支持`联网搜索`、`计算器`、调用其他平台 api [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165) [#5353](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5353)
+   - [x] 支持联网搜索、计算器、调用其他平台 api [#165](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/165) [#5353](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5353)
+ - [x] 支持 Realtime Chat [#5672](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5672)
+ - [ ] 本地知识库
 
 ## 最新动态
-
+- 🚀 v2.15.8 现在支持Realtime Chat [#5672](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5672)
+- 🚀 v2.15.4 客户端支持Tauri本地直接调用大模型API，更安全！[#5379](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/issues/5379)
+- 🚀 v2.15.0 现在支持插件功能了！了解更多：[NextChat-Awesome-Plugins](https://github.com/ChatGPTNextWeb/NextChat-Awesome-Plugins)
+- 🚀 v2.14.0 现在支持 Artifacts & SD 了。
+- 🚀 v2.10.1 现在支持 Gemini Pro 模型。
+- 🚀 v2.9.11 现在可以使用自定义 Azure 服务了。
+- 🚀 v2.8 发布了横跨 Linux/Windows/MacOS 的体积极小的客户端。
+- 🚀 v2.7 现在可以将会话分享为图片了，也可以分享到 ShareGPT 的在线链接。
 - 🚀 v2.0 已经发布，现在你可以使用面具功能快速创建预制对话了！ 了解更多： [ChatGPT 提示词高阶技能：零次、一次和少样本提示](https://github.com/Yidadaa/ChatGPT-Next-Web/issues/138)。
 - 💡 想要更方便地随时随地使用本项目？可以试下这款桌面插件：https://github.com/mushan0x0/AI0x0.com
-- 🚀 v2.7 现在可以将会话分享为图片了，也可以分享到 ShareGPT 的在线链接。
-- 🚀 v2.8 发布了横跨 Linux/Windows/MacOS 的体积极小的客户端。
-- 🚀 v2.9.11 现在可以使用自定义 Azure 服务了。
 
 ## Get Started
 
@@ -125,7 +180,7 @@ We recommend that you follow the steps below to re-deploy:
 
 ### Enable Automatic Updates
 
-> If you encounter a failure of Upstream Sync execution, please manually sync fork once.
+> If you encounter a failure of Upstream Sync execution, please [manually update code](./README.md#manually-updating-code).
 
 After forking the project, due to the limitations imposed by GitHub, you need to manually enable Workflows and Upstream Sync Action on the Actions page of the forked project. Once enabled, automatic updates will be scheduled every hour:
 
@@ -177,7 +232,7 @@ Specify OpenAI organization ID.
 
 ### `AZURE_URL` (optional)
 
-> Example: https://{azure-resource-url}/openai/deployments/{deploy-name}
+> Example: https://{azure-resource-url}/openai
 
 Azure deploy url.
 
@@ -188,6 +243,82 @@ Azure Api Key.
 ### `AZURE_API_VERSION` (optional)
 
 Azure Api Version, find it at [Azure Documentation](https://learn.microsoft.com/en-us/azure/ai-services/openai/reference#chat-completions).
+
+### `GOOGLE_API_KEY` (optional)
+
+Google Gemini Pro Api Key.
+
+### `GOOGLE_URL` (optional)
+
+Google Gemini Pro Api Url.
+
+### `ANTHROPIC_API_KEY` (optional)
+
+anthropic claude Api Key.
+
+### `ANTHROPIC_API_VERSION` (optional)
+
+anthropic claude Api version.
+
+### `ANTHROPIC_URL` (optional)
+
+anthropic claude Api Url.
+
+### `BAIDU_API_KEY` (optional)
+
+Baidu Api Key.
+
+### `BAIDU_SECRET_KEY` (optional)
+
+Baidu Secret Key.
+
+### `BAIDU_URL` (optional)
+
+Baidu Api Url.
+
+### `BYTEDANCE_API_KEY` (optional)
+
+ByteDance Api Key.
+
+### `BYTEDANCE_URL` (optional)
+
+ByteDance Api Url.
+
+### `ALIBABA_API_KEY` (optional)
+
+Alibaba Cloud Api Key.
+
+### `ALIBABA_URL` (optional)
+
+Alibaba Cloud Api Url.
+
+### `IFLYTEK_URL` (Optional)
+
+iflytek Api Url.
+
+### `IFLYTEK_API_KEY` (Optional)
+
+iflytek Api Key.
+
+### `IFLYTEK_API_SECRET` (Optional)
+
+iflytek Api Secret.
+
+### `CHATGLM_API_KEY` (optional)
+
+ChatGLM Api Key.
+
+### `CHATGLM_URL` (optional)
+
+ChatGLM Api Url.
+
+### `DEEPSEEK_API_KEY` (optional)
+
+DeepSeek Api Key.
+
+### `DEEPSEEK_URL` (optional)
+
+DeepSeek Api Url.
 
 ### `HIDE_USER_API_KEY` (optional)
 
@@ -205,7 +336,7 @@ If you do not want users to use GPT-4, set this value to 1.
 
 > Default: Empty
 
-If you do want users to query balance, set this value to 1, or you should set it to 0.
+If you do want users to query balance, set this value to 1.
 
 ### `DISABLE_FAST_LINK` (optional)
 
@@ -221,6 +352,43 @@ If you want to disable parse settings from url, set this to 1.
 To control custom models, use `+` to add a custom model, use `-` to hide a model, use `name=displayName` to customize model name, separated by comma.
 
 User `-all` to disable all default models, `+all` to enable all default models.
+
+For Azure: use `modelName@Azure=deploymentName` to customize model name and deployment name.
+> Example: `+gpt-3.5-turbo@Azure=gpt35` will show option `gpt35(Azure)` in model list.
+> If you only can use Azure model, `-all,+gpt-3.5-turbo@Azure=gpt35` will `gpt35(Azure)` the only option in model list.
+
+For ByteDance: use `modelName@bytedance=deploymentName` to customize model name and deployment name.
+> Example: `+Doubao-lite-4k@bytedance=ep-xxxxx-xxx` will show option `Doubao-lite-4k(ByteDance)` in model list.
+
+### `DEFAULT_MODEL` （optional）
+
+Change default model
+
+### `VISION_MODELS` (optional)
+
+> Default: Empty
+> Example: `gpt-4-vision,claude-3-opus,my-custom-model` means add vision capabilities to these models in addition to the default pattern matches (which detect models containing keywords like "vision", "claude-3", "gemini-1.5", etc).
+
+Add additional models to have vision capabilities, beyond the default pattern matching. Multiple models should be separated by commas.
+
+### `WHITE_WEBDAV_ENDPOINTS` (optional)
+
+You can use this option if you want to increase the number of webdav service addresses you are allowed to access, as required by the format：
+- Each address must be a complete endpoint 
+> `https://xxxx/yyy`
+- Multiple addresses are connected by ', '
+
+### `DEFAULT_INPUT_TEMPLATE` (optional)
+
+Customize the default template used to initialize the User Input Preprocessing configuration item in Settings.
+
+### `STABILITY_API_KEY` (optional)
+
+Stability API key.
+
+### `STABILITY_URL` (optional)
+
+Customize Stability API url.
 
 ## Requirements
 
@@ -254,6 +422,9 @@ yarn dev
 ## Deployment
 
 > [简体中文 > 如何部署到私人服务器](./README_CN.md#部署)
+
+### BT Install
+> [简体中文 > 如何通过宝塔一键部署](./docs/bt-cn.md)
 
 ### Docker (Recommended)
 
@@ -350,9 +521,11 @@ If you want to add a new translation, read this [document](./docs/translation.md
 [@Licoy](https://github.com/Licoy)
 [@shangmin2009](https://github.com/shangmin2009)
 
-### Contributor
+### Contributors
 
-[Contributors](https://github.com/Yidadaa/ChatGPT-Next-Web/graphs/contributors)
+<a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ChatGPTNextWeb/ChatGPT-Next-Web" />
+</a>
 
 ## LICENSE
 
